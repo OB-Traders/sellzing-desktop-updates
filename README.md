@@ -1,1 +1,1 @@
-# Sellzing-desktop-updates
+# sellzing-desktop-updates
